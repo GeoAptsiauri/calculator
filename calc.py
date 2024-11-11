@@ -1,3 +1,4 @@
+print("The best calculator ever")
 x = int(input("X: "))
 y = int(input("Y: "))
 
